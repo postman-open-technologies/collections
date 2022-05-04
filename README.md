@@ -1,2 +1,2 @@
-# collections
-This is where we track everything collections.
+# Collections
+This is the central repository for collection development within the Postman Open Technologies team. You will find all of our ideas for collections here, as well as links to the ones we have created as part of the stories we tell, the videos we make, and the other workshops we produce. If there is a collection you'd like to see made feel free to submit an issue on this repository, and if you'd like to build one of the ideas here, feel free to share your plans on the issue.
