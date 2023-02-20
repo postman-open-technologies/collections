@@ -13,6 +13,7 @@ These are some useful utility collections that do many different things with API
 - [Dev Odyssey's Public Workspace](https://www.postman.com/odevodyssey/workspace/dev-odyssey-s-public-workspace/overview) - A workspace full of unique and unexpecting ways to work with Postman using collections.
 - [Postman Tricks and Tips](https://www.postman.com/praveendvd-public/workspace/postman-tricks-and-tips/overview) - This public collection contains Postman Tricks and Tips about how to achieve some tricky postman use cases.
 - [Utilities](https://www.postman.com/carson-hunter-team/workspace/utilities/overview) - These are several collections I've put together to try and solve some postman pain points I've encountered. Most of these have further instructions in the collection level documentation, but if you have any questions or need help setting something up, feel free to leave a comment and tag me.
+- [Supercharge API development with Utility collections]( https://blog.postman.com/supercharge-api-development-with-utility-collections/) - An article that talks about utility collections, and the benefits it's provides.
 
 ## Sports
 These are some useful collection for playing around with different data used as sport.
